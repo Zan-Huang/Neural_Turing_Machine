@@ -1,2 +1,2 @@
 # Neural_Turing_Machine
-Implementation
+Implementation. I am working on Model right now so check the structure of the thing.
